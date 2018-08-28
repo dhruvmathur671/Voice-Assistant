@@ -1,0 +1,10 @@
+https://developer.amazon.com/designing-for-voice/what-users-say/
+https://mithileshjoshi.blogspot.in/2014/06/jarvis-your-personal-assistance.html
+https://ubuntuforums.org/showthread.php?t=1477650
+https://www.youtube.com/watch?v=a25NJRfEHX4
+https://www.codeproject.com/Articles/483347/Speech-recognition-speech-to-text-text-to-speech-a#speechrecognitionincsharp
+http://www.vogella.com/tutorials/MySQLJava/article.html
+https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a
+https://cmusphinx.github.io/wiki/tutorialconcepts/
+http://cecas.clemson.edu/~ahoover/ece854/refs/Ramos-Intro-HMM.pdf
+https://www.quora.com/in/Should-I-do-a-research-internship-in-an-IIT-IISc-or-do-an-internship-in-a-company-during-the-summer-What-is-the-difference-between-them
